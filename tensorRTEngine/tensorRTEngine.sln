@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tensorRTEngine", "tensorRTEngine.vcxproj", "{052EE214-F058-45AE-961A-7172E3764327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		DTest|x64 = DTest|x64
+		Release|x64 = Release|x64
+		Test|x64 = Test|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052EE214-F058-45AE-961A-7172E3764327}.Debug|x64.ActiveCfg = Debug|x64
+		{052EE214-F058-45AE-961A-7172E3764327}.Debug|x64.Build.0 = Debug|x64
+		{052EE214-F058-45AE-961A-7172E3764327}.DTest|x64.ActiveCfg = DTest|x64
+		{052EE214-F058-45AE-961A-7172E3764327}.DTest|x64.Build.0 = DTest|x64
+		{052EE214-F058-45AE-961A-7172E3764327}.Release|x64.ActiveCfg = Release|x64
+		{052EE214-F058-45AE-961A-7172E3764327}.Release|x64.Build.0 = Release|x64
+		{052EE214-F058-45AE-961A-7172E3764327}.Test|x64.ActiveCfg = Test|x64
+		{052EE214-F058-45AE-961A-7172E3764327}.Test|x64.Build.0 = Test|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
